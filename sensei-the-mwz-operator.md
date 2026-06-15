@@ -46,4 +46,5 @@ A table of contents for my (currently paused) *Call of Duty: Modern Warfare III 
 ## *The Schale Case Files* (Side Stories)
 
 | No. | Title | Summary | Links |
-| 01 | Sensei | Murphy introduces himself to the world. | [Reddit](https://www.reddit.com/r/BlueArchive/comments/1k9ya40/the_schale_case_files_a_sensei_the_mwz_operator/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
+| :--- | :--- | :--- | :--- |
+| 01 | Sensei | Murphy introduces himself to the world. | [Reddit](https://www.reddit.com/r/BlueArchive/comments/1k9ya40/the_schale_case_files_a_sensei_the_mwz_operator/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button) |
