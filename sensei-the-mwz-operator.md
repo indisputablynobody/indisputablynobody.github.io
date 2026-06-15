@@ -48,3 +48,8 @@ A table of contents for my (currently paused) *Call of Duty: Modern Warfare III 
 | No. | Title | Summary | Links |
 | :--- | :--- | :--- | :--- |
 | 01 | Sensei | Murphy introduces himself to the world. | [Reddit](https://www.reddit.com/r/BlueArchive/comments/1k9ya40/the_schale_case_files_a_sensei_the_mwz_operator/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button) |
+
+## Additional Reading
+
+- [*The Dark Aether Archives* on AO3](https://archiveofourown.org/works/60831217) (discontinued)
+- [Murphy's Deadbolt dossier on Reddit](https://www.reddit.com/u/AdLad114514/s/F4w5lwCjdg)
