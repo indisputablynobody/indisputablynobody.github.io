@@ -1,4 +1,6 @@
 title: indisputablynobody's web page
 description: Abandon all hope, ye who enter here.
 author: indisputablynobody
-theme: minima
+remote_theme: pages-themes/primer@v0.6.0
+plugins:
+- jekyll-remote-theme
