@@ -2,18 +2,24 @@
 layout: home
 ---
 
-A table of contents for my (currently paused) *Call of Duty: Modern Warfare III Zombies*-*Blue Archive* crossover fanfic series, *Sensei the MWZ Operator*.
+A table of contents for my (currently paused) *Call of Duty: Modern Warfare III Zombies*-*Blue Archive* crossover fanfic series, *Sensei the MWZ Operator*, as well as its spin-offs and whatnot.
+
+## *Sensei the MWZ Operator* (Main Story)
 
 ### Prologue: Out of the Furnace
 
-| No. | Title | Commentary/Notes | Links |
+*Lesson #0: Only in death does duty end.*
+
+| No. | Title | Summary | Links |
 | :--- | :--- | :--- | :--- |
 | 01 | First Contact | A botched Dark Aether Rift expedition sends a Deadbolt operator to a brave new world. | [Reddit](https://www.reddit.com/r/BlueArchive/s/nPz9s8iJXW) |
 | 02 | Lock, Stock, and Seven Smoking Barrels | Murphy gets geared up and runs into a jarring discovery about himself. | [Reddit](https://www.reddit.com/r/BlueArchive/s/zOhgLWRIq9) |
 
 ### Chapter 1: Desert Debtor Blues
 
-| No. | Chapter | Commentary/Notes | Links |
+*Lesson #1: Money can't buy happiness.*
+
+| No. | Chapter | Summary | Links |
 | :--- | :--- | :--- | :--- |
 | 01 | Heatwaves | Murphy responds a distress message from the failing Abydos High School. | [Reddit](https://www.reddit.com/r/BlueArchive/comments/1cxnn2t/sensei_the_mwz_operator_day_3_part_i/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
 | 02 | Interlude | Murphy receives a more discreet loadout. | [Reddit](https://www.reddit.com/r/BlueArchive/comments/1dbdvm7/sensei_the_mwz_operator_day_4/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
@@ -34,3 +40,10 @@ A table of contents for my (currently paused) *Call of Duty: Modern Warfare III 
 ### Chapter 4: Under No Flag
 
 ### Chapter 5: Armageddon
+
+*Lesson #5: United we stand.*
+
+## *The Schale Case Files* (Side Stories)
+
+| No. | Title | Summary | Links |
+| 01 | Sensei | Murphy introduces himself to the world. | [Reddit](https://www.reddit.com/r/BlueArchive/comments/1k9ya40/the_schale_case_files_a_sensei_the_mwz_operator/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
