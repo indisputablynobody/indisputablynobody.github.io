@@ -12,7 +12,7 @@ A table of contents for my (currently paused) *Call of Duty: Modern Warfare III 
 
 | No. | Title | Summary | Links |
 | :--- | :--- | :--- | :--- |
-| 01 | First Contact | A botched Dark Aether Rift expedition sends a Deadbolt operator to a brave new world. | [Original Reddit post](https://www.reddit.com/r/BlueArchive/s/nPz9s8iJXW)<br>[GitHub Pages remake](/stmo-d1-remake.html)|
+| 01 | First Contact | A botched Dark Aether Rift expedition sends a Deadbolt operator to a brave new world. | [Original Reddit post](https://www.reddit.com/r/BlueArchive/s/nPz9s8iJXW)<br>GitHub Pages remake (WIP)|
 | 02 | Lock, Stock, and Seven Smoking Barrels | Murphy gets geared up and runs into a jarring discovery about himself. | [Reddit](https://www.reddit.com/r/BlueArchive/s/zOhgLWRIq9) |
 
 ### Chapter 1: Desert Debtor Blues
