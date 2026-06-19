@@ -31,7 +31,7 @@ A table of contents for my (currently paused) *Call of Duty: Modern Warfare III 
 | 08 | I See Fire | An old foe rears its head. | [Reddit](https://www.reddit.com/r/BlueArchive/comments/1krhkrz/sensei_the_mwz_operator_day_10/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
 | 09 | Alea Iacta Est | Kaiser takes their gloves off. | [Reddit](https://www.reddit.com/r/BlueArchive/s/ZaVFHm6bbX)
 | 10 | Si Vis Pacem... | Murphy prepares for war. | [Reddit](https://www.reddit.com/r/BlueArchive/comments/1nmcaaj/sensei_the_mwz_operator_day_12_part_i/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
-| 11 | **Finale: Operation Babylon** | Abydos, Trinity, Gehenna, and the GSC join forces to free Hoshino and take down Kaiser once and for all. | [Reddit](https://www.reddit.com/r/BlueArchive/comments/1u2e4we/sensei_the_mwz_operator_day_13_part_i/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
+| **11** | **Finale: Operation Babylon** | Abydos, Trinity, Gehenna, and the GSC join forces to free Hoshino and take down Kaiser once and for all. | [Reddit](https://www.reddit.com/r/BlueArchive/comments/1u2e4we/sensei_the_mwz_operator_day_13_part_i/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
 
 ### Chapter 2: The Most Dangerous Game
 
