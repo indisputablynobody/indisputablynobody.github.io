@@ -19,7 +19,7 @@ A table of contents for my (currently paused) *Call of Duty: Modern Warfare III 
 
 *Lesson #1: Money can't buy happiness.*
 
-| No. | Chapter | Summary | Links |
+| No. | Title | Summary | Links |
 | :--- | :--- | :--- | :--- |
 | 01 | Heatwaves | Murphy responds a distress message from the failing Abydos High School. | [Reddit](https://www.reddit.com/r/BlueArchive/comments/1cxnn2t/sensei_the_mwz_operator_day_3_part_i/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
 | 02 | Interlude | Murphy receives a more discreet loadout. | [Reddit](https://www.reddit.com/r/BlueArchive/comments/1dbdvm7/sensei_the_mwz_operator_day_4/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
@@ -35,13 +35,35 @@ A table of contents for my (currently paused) *Call of Duty: Modern Warfare III 
 
 ### Chapter 2: The Most Dangerous Game
 
+*Lesson #2: Be the person you want to be.*
+
+| No. | Title | Summary | Links |
+| :--- | :--- | :--- | :--- |
+| TBD | **Finale: Operation Wonderland** | Murphy leads the GDD, C&C, and Engineering Club on one last quest: bring Aris home. | TBD |
+
 ### Chapter 3: Paradise Lost
 
+*Lesson #3: The loss of innocence is a terrible thing.*
+
+| No. | Title | Summary | Links |
+| :--- | :--- | :--- | :--- |
+| TBD | **Finale: Operation Kingslayer** | Murphy and the Arius Strike Team race against the sun to save Atsuko and thwart Beatrice's scheme. | TBD |
+
 ### Chapter 4: Under No Flag
+
+*Lesson #4: The end doesn't always justify the means.*
+
+| No. | Title | Summary | Links |
+| :--- | :--- | :--- | :--- |
+| TBD | **Finale: Operation Clover** | Murphy and the Rabbits infiltrate Valkyrie HQ for evidence of KSPD's corruption. | TBD |
 
 ### Chapter 5: Armageddon
 
 *Lesson #5: United we stand.*
+
+| No. | Title | Summary | Links |
+| :--- | :--- | :--- | :--- |
+| TBD | **Finale: Operation Skyfall** | Board the ark. Close the breach. Save the world. | TBD |
 
 ## *The Schale Case Files* (Side Stories)
 
